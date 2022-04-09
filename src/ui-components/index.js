@@ -9,6 +9,7 @@ export { default as CardG } from "./CardG";
 export { default as CardC } from "./CardC";
 export { default as HeroLayout4 } from "./HeroLayout4";
 export { default as CardF } from "./CardF";
+export { default as NewCars } from "./NewCars";
 export { default as Ampligram } from "./Ampligram";
 export { default as SocialA } from "./SocialA";
 export { default as CarRentalCard } from "./CarRentalCard";
