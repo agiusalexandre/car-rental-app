@@ -43,7 +43,7 @@ export default function NavBar(props) {
           position="relative"
           borderRadius="160px"
           padding="0px 0px 0px 0px"
-          {...getOverrideProps(overrides, "imagezzp")}
+          {...getOverrideProps(overrides, "Flex.Flex[0].Image[0]")}
         ></Image>
         <Text
           fontFamily="Inter"
@@ -135,7 +135,7 @@ export default function NavBar(props) {
           position="relative"
           borderRadius="160px"
           padding="0px 0px 0px 0px"
-          {...getOverrideProps(overrides, "imageqat")}
+          {...getOverrideProps(overrides, "Flex.Flex[2].Image[0]")}
         ></Image>
       </Flex>
     </Flex>
