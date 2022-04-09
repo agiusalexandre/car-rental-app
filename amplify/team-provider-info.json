@@ -1,0 +1,15 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-carrental-staging-125431-authRole",
+      "UnauthRoleArn": "arn:aws:iam::284474675936:role/amplify-carrental-staging-125431-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::284474675936:role/amplify-carrental-staging-125431-authRole",
+      "Region": "eu-west-1",
+      "DeploymentBucketName": "amplify-carrental-staging-125431-deployment",
+      "UnauthRoleName": "amplify-carrental-staging-125431-unauthRole",
+      "StackName": "amplify-carrental-staging-125431",
+      "StackId": "arn:aws:cloudformation:eu-west-1:284474675936:stack/amplify-carrental-staging-125431/33345390-b804-11ec-9f0b-0aebbb9712af",
+      "AmplifyAppId": "d1paifx7262q0e"
+    }
+  }
+}
